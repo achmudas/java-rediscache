@@ -7,7 +7,7 @@ Other than using Redis or an in memory cache  instead of the Bluemix Data Cache 
 
 If deploying to Bluemix, note that by default the in memory cache is used. To use Redis instead, bind an instance of Community Redis to the app after it has been deployed and restage it. 
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+[![Deploy to Bluemix](https://eu-gb.bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
 
 
 # Privacy Notice
